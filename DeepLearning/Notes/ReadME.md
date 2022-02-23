@@ -8,6 +8,8 @@ Notes for DL
 6. Loss Function
 7. Forward and Backward Propagation
 8. Optimizers and Types of gradient
-9. Neural Networks Practise set
-10. Python Oops
-11. Neural Network from scratch.
+9. Regularization Techniques
+10. Neural Networks Practise set
+11. Python OOPS
+12. Neural Network From Scratch
+
